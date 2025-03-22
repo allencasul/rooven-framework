@@ -2,7 +2,7 @@
 
 Explore the first web UI framework that integrates inline CSS at its core, offering you greater flexibility and empowerment.
 
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/allencasul/rooven-framework-official-website/badge)
+![jsDelivr](https://data.jsdelivr.com/v1/package/gh/allencasul/rooven-framework/badge)
 ![Github](https://img.shields.io/github/license/allencasul/rooven-framework)
 ![Github](https://img.shields.io/github/repo-size/allencasul/rooven-framework)
 ![Github](https://img.shields.io/github/stars/allencasul/rooven-framework)
