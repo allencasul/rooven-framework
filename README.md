@@ -9,6 +9,16 @@ Explore the first web UI framework that integrates inline CSS at its core, offer
 
 <a href="https://roovenframework.com"><img src="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework-official-website@master/src/client/assets/img/png/rooven-framework.png" alt="Rooven" style="max-width:100%;" width="600"></a>
 
+## Installation
+
+Installing Rooven using NPM (Node Package Manager).
+
+### NPM
+
+```sh
+npm install rooven@latest
+```
+
 ## Documentation
 
 Full documentation: [Click here.](https://roovenframework.com/)
