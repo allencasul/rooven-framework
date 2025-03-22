@@ -1,3 +1,5 @@
+/* https://roovenframework.com | MIT License | https://github.com/allencasul/rooven-framework */
+
 @import 'variables/__appearance.css';
 @import 'variables/__icon.css';
 @import 'variables/__typography.css';
@@ -30,7 +32,6 @@
 
 body {
   background-color: var(--default-adaptive-scheme);
-  padding: env(safe-area-inset-top, 0px) env(safe-area-inset-right, 0px) env(safe-area-inset-bottom, 0px) env(safe-area-inset-left, 0px);
   overscroll-behavior-y: auto;
 }
 
