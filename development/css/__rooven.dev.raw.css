@@ -517,10 +517,21 @@ details[open] summary .accordion_icon {
   height: 100%;
 }
 
-.__gradient-primary { background: linear-gradient(#ffffff00 30%, #000000c2, #000 95%); }
-.__gradient-secondary { background: linear-gradient(to top, #000 30%, #000000c2, var(--transparent)); }
-.__gradient-tertiary { background: linear-gradient(to bottom, #000 25%, #000000c2, var(--transparent)); }
-.__gradient-quaternary { background: linear-gradient(to bottom, #000 45%, #000000c2, var(--transparent)); }
+.__gradient-primary { 
+  background: linear-gradient(#ffffff00 30%, #000000c2, #000 95%); 
+}
+
+.__gradient-secondary { 
+  background: linear-gradient(to top, #000 30%, #000000c2, var(--transparent)); 
+}
+
+.__gradient-tertiary { 
+  background: linear-gradient(to bottom, #000 25%, #000000c2, var(--transparent)); 
+}
+
+.__gradient-quaternary { 
+  background: linear-gradient(to bottom, #000 45%, #000000c2, var(--transparent)); 
+}
 
 .__custom-input-selection::selection {
   background-color: var(--transparent);
