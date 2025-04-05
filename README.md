@@ -16,7 +16,7 @@ Installing Rooven using NPM (Node Package Manager).
 ### NPM
 
 ```sh
-npm install rooven@latest
+npm i rooven-framework@latest
 ```
 
 Using Rooven through a CDN (Content Delivery Network).
