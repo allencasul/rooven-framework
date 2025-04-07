@@ -27,7 +27,7 @@ Using Rooven through a CDN (Content Delivery Network).
 ### CDN
 
 ```sh
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework@f07289fd537ac28aeccbc6cb741950f38bf2acf3/production/css/__rooven.prod.min.css" integrity="sha256-WhSgpaEXHH1JM6IJ4AeRpvoaROOYhdlQb4iHcM0uDF4=" crossorigin="anonymous" fetchpriority="high">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework@78ec2dbf519008acca99b817d492a16bc32f8419/production/css/__rooven.prod.min.css" integrity="sha256-wzZYU2KGz+2MCzb7/uP3RzkqJJCE681lF148MqacDho=" crossorigin="anonymous" fetchpriority="high">
 ```
 
 ## Documentation
