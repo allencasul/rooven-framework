@@ -19,7 +19,7 @@ Installing Rooven using NPM (Node Package Manager).
 ### NPM
 
 ```sh
-npm i rooven-framework@0.0.5
+npm i rooven-framework@0.0.7
 ```
 
 Using Rooven through a CDN (Content Delivery Network).
@@ -27,7 +27,7 @@ Using Rooven through a CDN (Content Delivery Network).
 ### CDN
 
 ```sh
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework@e023c16d593235d8e6f6c0991a7b020f2c89a77c/production/css/__rooven.prod.min.css" integrity="sha256-jTyltDQQIUxMqbBAa80TXRA3vX7UvO5jxaYg5E/jJt4=" crossorigin="anonymous" fetchpriority="high">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/allencasul/rooven-framework@bd3cfbac056182f4b7c92c87f20e56659ac07755/production/css/__rooven.prod.min.css" integrity="sha256-9+ikeCt5UnSDefdr+ydrqZx+ZoKs1EJSE5T/RrkM9cc=" crossorigin="anonymous" fetchpriority="high">
 ```
 
 ## Documentation
